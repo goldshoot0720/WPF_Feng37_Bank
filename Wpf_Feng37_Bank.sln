@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Feng37_Bank", "Wpf_Feng37_Bank\Wpf_Feng37_Bank.csproj", "{75E0F2C0-B863-4CAF-92A2-0A01B6F98513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E0F2C0-B863-4CAF-92A2-0A01B6F98513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E0F2C0-B863-4CAF-92A2-0A01B6F98513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E0F2C0-B863-4CAF-92A2-0A01B6F98513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E0F2C0-B863-4CAF-92A2-0A01B6F98513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A6A960-761F-4A0B-92B7-CBFAD5EED57C}
+	EndGlobalSection
+EndGlobal

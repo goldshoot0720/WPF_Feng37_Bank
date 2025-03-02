@@ -1,0 +1,15 @@
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\bin\Release\Wpf_Feng37_Bank.exe.config
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\bin\Release\Wpf_Feng37_Bank.exe
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\bin\Release\Wpf_Feng37_Bank.pdb
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.csproj.AssemblyReference.cache
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\MainWindow.g.cs
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\App.g.cs
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank_MarkupCompile.cache
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank_MarkupCompile.lref
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\MainWindow.baml
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.g.resources
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.Properties.Resources.resources
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.csproj.GenerateResource.cache
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.csproj.CoreCompileInputs.cache
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.exe
+C:\Users\chbon\source\repos\Wpf_Feng37_Bank\Wpf_Feng37_Bank\obj\Release\Wpf_Feng37_Bank.pdb
